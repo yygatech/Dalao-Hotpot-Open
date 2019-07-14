@@ -1,2 +1,2 @@
-#Welcome to Dalao Hotpot!
-##Enjoy Your First Order at http://52.43.93.149
+# Welcome to Dalao Hotpot!
+Place your first order at: http://52.43.93.149
